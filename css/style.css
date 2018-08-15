@@ -1,0 +1,55 @@
+
+body{
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    margin: 0 auto;
+}
+
+header{
+    color: purple;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.principal{
+    margin: 80px 80px;
+}
+
+.principal__perfil{
+    display: inline-block;
+    width: 16%;
+    height: 360px;
+    border: 1px solid grey;
+    padding: 10px;
+    text-align: center;
+    vertical-align: top;
+}
+
+h1{
+    font-size: 40px;
+    margin-top: 0;   
+}
+
+.principal__conteudo{
+    display:inline-block;
+    width: 500px;
+    text-align: left;
+    padding: 15px;
+    vertical-align: top;
+}
+
+
+
+.principal__conteudo img{
+    width: 500px;
+}
+
+footer{
+    text-align: center;
+    background-color: rgba(175, 116, 241, 0.568);
+    color: white;
+    padding: 10px 0;
+    width: 60%;
+    margin: 0 auto;
+}
