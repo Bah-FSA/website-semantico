@@ -5,6 +5,32 @@ body{
     margin: 0 auto;
 }
 
+.menu{
+    display:inline-block;
+}
+a{
+    text-decoration: none;
+    color: gray;
+}
+.topbar{
+    box-shadow: 0 1px 4px rgba(0,0,0,.15);
+    width:100%;
+    margin-top: 0;
+    padding: 15px;
+
+}
+
+.topbar img{
+    margin-right: 350px;
+}
+.menu__item{
+    list-style: none;
+    display: inline-block;
+    margin-right: 30px;
+    
+    
+}
+
 header{
     color: purple;
     text-align: center;
